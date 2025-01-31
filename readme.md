@@ -1,6 +1,28 @@
 Deploy Link:
 https://dreamy-boba-16602b.netlify.app/
 
+
+# Project Description: 
+
+Authentication ✅
+
+Already implemented using Supabase Auth
+GitHub OAuth is currently the only method
+We should add email/password signup as requested
+
+Home Page ✅
+
+Search bar component
+Friends list with unfriend option
+User profile display
+Tabbed interface for Friends/Requests/Discover
+
+Friend Features ✅
+
+Search users
+Send/receive friend requests
+Accept/reject requests
+Friend recommendations with mutual friends
 A "Use Test Account" button that pre-fills the form with: 
 
 Email: test@example.com
