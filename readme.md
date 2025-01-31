@@ -13,13 +13,23 @@ First click "Sign up" and create an account with these credentials
 Then you can use the "Use Test Account" button to quickly fill in the credentials for future logins
 
 Create accounts with email/password
+
 Sign in with email/password
+
 Still use GitHub OAuth if preferred
+
 Get a default username from their email (before @ symbol)
 
+
 The form includes:
+
 Input validation
+
 Loading states
+
 Error handling
+
 Smooth transitions
+
 Clear user feedback
+
