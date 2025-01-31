@@ -1,7 +1,7 @@
 Deploy Link:
 https://dreamy-boba-16602b.netlify.app/
 
-A "Use Test Account" button that pre-fills the form with: \n
+A "Use Test Account" button that pre-fills the form with: 
 
 Email: test@example.com
 
