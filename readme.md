@@ -8,7 +8,7 @@ Authentication ✅
 
 Already implemented using Supabase Auth
 GitHub OAuth is currently the only method
-We should add email/password signup as requested
+added email/password signup as requested
 
 Home Page ✅
 
@@ -23,6 +23,7 @@ Search users
 Send/receive friend requests
 Accept/reject requests
 Friend recommendations with mutual friends
+
 A "Use Test Account" button that pre-fills the form with: 
 
 Email: test@example.com
